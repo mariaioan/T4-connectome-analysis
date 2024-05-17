@@ -1,3 +1,8 @@
+# Introduction
+This repository contains the code for my master thesis: Connectome analysis of the Drosophila direction-selective cells
+Here, I present the code for all Figures that are presented in my thesis: 
+The code has been based on analysis already made By Sebastian (his reposioty)
+
 # connectome-analysis
 Retrieval and analysis of connectomics data from different EM data sets
 
@@ -6,8 +11,6 @@ USER PRE-REQUISITES:
 --------------------
 
 1. To have a google (e.g., gmail) account
-2. To have high motivation and self-learning capabilities
-3. To be open to do pair-coding
 
 COMPUTER INSTALLATIONS:
 ----------------------
