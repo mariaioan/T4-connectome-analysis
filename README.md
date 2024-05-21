@@ -5,6 +5,11 @@ I investigate the anatomical basis of the 6 types of optic flow encoded by the f
 Here, I present the code for all Figures that are presented in my thesis: 
 The code has been based on analysis already made by @sebasto7
 
+# Content
+- data folder
+- script folder
+- figure folder
+
 # connectome-analysis
 Retrieval and analysis of connectomics data from the Flywire dataset.
 
