@@ -1,5 +1,6 @@
 # Introduction
-This repository contains the code for my master thesis: Connectome analysis of the Drosophila direction-selective cells
+This repository contains the code for my master thesis: Connectome analysis of the Drosophila direction-selective cells.
+I investigate the anatomical basis of the 6 types of optic flow encoded by the fly based on Henning et al., 2022.
 Here, I present the code for all Figures that are presented in my thesis: 
 The code has been based on analysis already made By Sebastian (his reposioty)
 
